@@ -1,0 +1,82 @@
+laundry detergent
+80
+crackers
+10
+half and half
+58
+oregano
+54
+paper towels
+38
+napkins
+32
+zipper bags gal/quart
+74
+chicken
+32
+pepper
+28
+oregano
+26
+laundry detergent
+4
+brown sugar
+20
+tomato sauce
+18
+yogurt
+66
+salad/lettuce
+54
+cantaloupe
+38
+whipping cream
+42
+applesauce
+72
+bleach
+76
+watermelon
+76
+rosemary
+74
+bananas
+40
+plums
+2
+lemons/limes
+74
+soy milk
+68
+oranges
+58
+sandwich/snack bags
+16
+bleach
+10
+cream cheese
+10
+swiffer refill
+36
+blueberries
+64
+honey
+80
+ground beef
+54
+steak sauce
+44
+coconut
+66
+plums
+30
+rotini
+76
+butter
+12
+tomatoes
+30
+sour cream
+56
+cantaloupe
+80

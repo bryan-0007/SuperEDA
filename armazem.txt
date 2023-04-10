@@ -1,0 +1,201 @@
+50
+Beverages
+Rocha - Pires
+sweet potatoes
+8
+Beverages
+Torres, Nunes and Henriques
+rosemary
+40
+Beverages
+Cunha - Loureiro
+spaghetti
+14
+Floral
+Costa, Andrade and Mota
+strawberries
+62
+Meat
+Baptista LTDA
+cucumbers
+62
+Beverages
+Monteiro LTDA
+baking powder
+22
+Meat
+Gomes, Fonseca and Reis
+cantaloupe
+14
+Prepared Foods
+Brito e Associados
+salmon
+60
+Meat
+Rocha - Pires
+baked beans
+42
+Beverages
+Nobre - Baptista
+whipping cream
+70
+Bakery
+Gomes, Fonseca and Reis
+cauliflower
+32
+Meat
+Machado S.A.
+strawberries
+78
+Beverages
+Cunha - Loureiro
+salad/lettuce
+58
+Beverages
+Cunha - Loureiro
+bagels
+56
+Prepared Foods
+Barros - Guerreiro
+rotini
+50
+Prepared Foods
+Gomes, Fonseca and Reis
+soy sauce
+20
+Floral
+Costa, Andrade and Mota
+crackers
+34
+Bakery
+Fernandes, Leal and Henriques
+pepper
+70
+Bulk dried foods
+Brito e Associados
+rotini
+30
+Bakery
+Torres, Nunes and Henriques
+worcestershire
+48
+Bakery
+Pires, Santos and Pinto
+ground beef
+50
+Meat
+Monteiro LTDA
+steak
+4
+Meat
+Barros - Guerreiro
+sweet potatoes
+2
+Bulk dried foods
+Pires, Santos and Pinto
+fish
+22
+Floral
+Barros - Guerreiro
+cantaloupe
+38
+Meat
+Monteiro LTDA
+sandwich/snack bags
+14
+Meat
+Pires, Santos and Pinto
+hotdogs
+32
+Meat
+Barros - Guerreiro
+ham
+8
+Floral
+Vieira - Fernandes
+peaches
+50
+Bulk dried foods
+Monteiro LTDA
+salad/lettuce
+54
+Meat
+Rocha - Pires
+coconut
+54
+Bakery
+Monteiro LTDA
+bagels
+66
+Meat
+Torres, Nunes and Henriques
+mushrooms
+28
+Meat
+Baptista LTDA
+carrots
+58
+Meat
+Gomes, Fonseca and Reis
+coleslaw
+70
+Floral
+Costa, Andrade and Mota
+tomato paste
+8
+Bulk dried foods
+Tavares, Vieira and Cruz
+cereal
+8
+Meat
+Vieira - Fernandes
+pineapple
+16
+Meat
+Machado S.A.
+applesauce
+72
+Meat
+Barros - Guerreiro
+rosemary
+70
+Beverages
+Torres, Nunes and Henriques
+oregano
+6
+Beverages
+Fernandes, Leal and Henriques
+baked beans
+64
+Meat
+Cunha - Loureiro
+coleslaw
+46
+Bulk dried foods
+Rocha - Pires
+rotini
+18
+Bulk dried foods
+Machado S.A.
+cantaloupe
+46
+Meat
+Pires, Santos and Pinto
+garlic
+68
+Floral
+Pires, Santos and Pinto
+bacon
+66
+Meat
+Cunha - Loureiro
+zipper bags gal/quart
+74
+Beverages
+Pires, Santos and Pinto
+potatoes
+40
+Floral
+Baptista LTDA
+rice
+8

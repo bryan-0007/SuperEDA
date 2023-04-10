@@ -1,0 +1,3 @@
+C:\Users\Bryan Santos\Desktop\projeto2\x64\Debug\projeto2.exe
+C:\Users\Bryan Santos\Desktop\C++\EDA\projeto2 - EDA\x64\Debug\projeto2.exe
+C:\Users\Bryan Santos\Desktop\C++\EDA\SuperEDA\x64\Debug\projeto2.exe

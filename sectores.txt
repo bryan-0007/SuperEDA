@@ -1,0 +1,229 @@
+9
+A
+a
+9
+3
+Bakery
+0
+0
+7
+Bakery
+Gomes, Fonseca and Reis
+coconut
+28
+Bakery
+Vieira - Fernandes
+whipping cream
+78
+Bakery
+Rocha - Pires
+oil
+66
+B
+b
+8
+8
+Meat
+0
+0
+13
+Meat
+Cunha - Loureiro
+thyme
+72
+Meat
+Tavares, Vieira and Cruz
+pizza
+10
+Meat
+Baptista LTDA
+cookies
+22
+Meat
+Nobre - Baptista
+cantaloupe
+42
+Meat
+Pires, Santos and Pinto
+napkins
+28
+Meat
+Monteiro LTDA
+baking soda
+60
+Meat
+Barros - Guerreiro
+rotini
+56
+Meat
+Torres, Nunes and Henriques
+chicken
+32
+C
+c
+9
+2
+Floral
+0
+0
+4
+Floral
+Pires, Santos and Pinto
+swiffer refill
+48
+Floral
+Barros - Guerreiro
+popcorn
+22
+D
+d
+7
+4
+Meat
+0
+0
+2
+Meat
+Machado S.A.
+rosemary
+50
+Meat
+Monteiro LTDA
+sausage
+26
+Meat
+Gomes, Fonseca and Reis
+cheese sticks
+34
+Meat
+Monteiro LTDA
+oranges
+8
+E
+e
+5
+5
+Beverages
+0
+0
+6
+Beverages
+Torres, Nunes and Henriques
+soy milk
+28
+Beverages
+Fernandes, Leal and Henriques
+bacon
+66
+Beverages
+Machado S.A.
+broccoli
+46
+Beverages
+Nobre - Baptista
+dish washer deterg.
+48
+Beverages
+Machado S.A.
+cheese sticks
+68
+F
+f
+7
+7
+Bulk dried foods
+0
+0
+3
+Bulk dried foods
+Vieira - Fernandes
+nuts
+8
+Bulk dried foods
+Barros - Guerreiro
+tomatoes
+10
+Bulk dried foods
+Monteiro LTDA
+baking powder
+24
+Bulk dried foods
+Rocha - Pires
+potato chips
+38
+Bulk dried foods
+Torres, Nunes and Henriques
+bleach
+72
+Bulk dried foods
+Baptista LTDA
+english muffins
+34
+Bulk dried foods
+Vieira - Fernandes
+soy sauce
+4
+G
+g
+6
+6
+Beverages
+0
+0
+2
+Beverages
+Cunha - Loureiro
+oregano
+46
+Beverages
+Barros - Guerreiro
+shells
+2
+Beverages
+Nobre - Baptista
+carrots
+46
+Beverages
+Cunha - Loureiro
+whipping cream
+38
+Beverages
+Nobre - Baptista
+worcestershire
+6
+Beverages
+Machado S.A.
+napkins
+56
+H
+h
+6
+0
+Meat
+0
+0
+0
+I
+i
+6
+4
+Prepared Foods
+0
+0
+4
+Prepared Foods
+Brito e Associados
+cereal
+24
+Prepared Foods
+Pires, Santos and Pinto
+thyme
+58
+Prepared Foods
+Gomes, Fonseca and Reis
+hotdogs
+42
+Prepared Foods
+Costa, Andrade and Mota
+oregano
+60

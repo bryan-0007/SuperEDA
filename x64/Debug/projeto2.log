@@ -1,0 +1,7 @@
+﻿  FuncoesFicheiros.cpp
+  main.cpp
+C:\Users\Bryan Santos\Desktop\C++\EDA\SuperEDA\main.cpp(63,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SuperEDA.cpp
+C:\Users\Bryan Santos\Desktop\C++\EDA\SuperEDA\SuperEDA.cpp(651,25): warning C4553: '==': result of expression not used; did you intend '='?
+  Generating Code...
+  projeto2.vcxproj -> C:\Users\Bryan Santos\Desktop\C++\EDA\SuperEDA\x64\Debug\projeto2.exe
